@@ -1,0 +1,3 @@
+You have a shiny new [Kafka enabled broker on Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs/event-hubs-for-kafka-ecosystem-overview?WT.mc_id=azureeventhubskafkacliquickstart-github-abhishgu) and want to quickly test it out without writing cumbersome client (producer and consumer) code. Try out the instructions [in this blog post](https://dev.to/azure/how-to-quickly-test-connectivity-to-your-azure-event-hubs-for-kafka-cluster-without-writing-any-code-4la1) and you should (hopefully) have everything setup and sanity tested in ~ 10 minutes.
+
+![](https://thepracticaldev.s3.amazonaws.com/i/rilzkcc6a30c1l4us45b.gif)
